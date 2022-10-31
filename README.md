@@ -51,6 +51,6 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2210.11416)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-10-scaling-instruction-finetuned-language-models/)
 
-<strong>Note about content</strong>:
+<strong>Notes about content</strong>:
 As noted in the first lecture above, the topic, definition or indeed the name "Foundation Models" is not yet agreed upon in the research community (and may change).
-The course is a work-in-progress.
+The collection of videos is a work-in-progress.
