@@ -22,6 +22,7 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2022-04-clip.pdf)
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2103.00020)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-04-clip/)
+- :pick: [code & models](https://github.com/openai/CLIP)
 
 **4. DINO: Emerging properties in self-supervised vision transformers**
 
@@ -29,6 +30,7 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2022-06-dino.pdf)
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2104.14294)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-06-dino/)
+- :pick: [code & models](https://github.com/facebookresearch/dino)
 
 **5. Flamingo: a Visual Language Model for Few-Shot Learning**
 
@@ -50,6 +52,8 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2022-10-scaling-instruction-finetuned-language-models.pdf)
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2210.11416)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-10-scaling-instruction-finetuned-language-models/)
+- :pick: [code & models](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)
+
 
 **8. BLOOMZ & mT0: Crosslingual Generalization through Multitask Finetuning**
 
@@ -57,6 +61,7 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2022-11-crosslingual-generalization-through-multitask-finetuning.pdf)
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2211.01786)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-11-crosslingual-generalisation-through-multitask-finetuning)
+- :pick: [code & models](https://github.com/bigscience-workshop/xmtf)
 
 <strong>Notes about content</strong>:
 As noted in the first lecture above, the topic, definition or indeed the name "Foundation Models" is not yet agreed upon in the research community (and may change).
