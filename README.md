@@ -51,6 +51,13 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2210.11416)
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-10-scaling-instruction-finetuned-language-models/)
 
+**8. BLOOMZ & mT0: Crosslingual Generalization through Multitask Finetuning**
+
+- :movie_camera: [YouTube video](https://youtu.be/LG_N5ITizDo)
+- :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2022-11-crosslingual-generalization-through-multitask-finetuning.pdf)
+- :page_facing_up: [arxiv paper](https://arxiv.org/abs/2211.01786)
+- :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-11-crosslingual-generalisation-through-multitask-finetuning)
+
 <strong>Notes about content</strong>:
 As noted in the first lecture above, the topic, definition or indeed the name "Foundation Models" is not yet agreed upon in the research community (and may change).
-The collection of videos is a work-in-progress.
+The collection of videos is a work in progress.
