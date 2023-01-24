@@ -63,6 +63,14 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-11-crosslingual-generalisation-through-multitask-finetuning)
 - :pick: [code & models](https://github.com/bigscience-workshop/xmtf)
 
+**9. BLOOM: A 176B-parameter Open-access Multilingual Language Model**
+
+- :movie_camera: [YouTube video](https://youtu.be/sKTbV7GZsMA)
+- :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2023-01-bloom-a-176B-parameter-open-access-multilingual-language-model.pdf)
+- :page_facing_up: [arxiv paper](https://arxiv.org/abs/2211.05100)
+- :fountain_pen: [detailed references](http://samuelalbanie.com/digests/2023-01-bloom-a-176B-parameter-open-access-multilingual-language-model)
+- :pick: [code & models](https://huggingface.co/bigscience/bloom)
+
 <strong>Notes about content</strong>:
 As noted in the first lecture above, the topic, definition or indeed the name "Foundation Models" is not yet agreed upon in the research community (and may change).
 The collection of videos is a work in progress.
