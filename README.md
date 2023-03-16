@@ -54,7 +54,6 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :fountain_pen: [detailed references](https://samuelalbanie.com/digests/2022-10-scaling-instruction-finetuned-language-models/)
 - :pick: [code & models](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)
 
-
 **8. BLOOMZ & mT0: Crosslingual Generalization through Multitask Finetuning**
 
 - :movie_camera: [YouTube video](https://youtu.be/LG_N5ITizDo)
@@ -70,6 +69,13 @@ Video descriptions of research papers relating to foundation models and scaling 
 - :page_facing_up: [arxiv paper](https://arxiv.org/abs/2211.05100)
 - :fountain_pen: [detailed references](http://samuelalbanie.com/digests/2023-01-bloom-a-176B-parameter-open-access-multilingual-language-model)
 - :pick: [code & models](https://huggingface.co/bigscience/bloom)
+
+**10. GPT-4**
+
+- :movie_camera: [YouTube video](https://youtu.be/b-eLeaUFn3o)
+- :bar_chart: [slides (pdf)](https://samuelalbanie.com/files/digest-slides/2023-03-gpt-4.pdf)
+- :page_facing_up: [technical report](https://cdn.openai.com/papers/gpt-4.pdf)
+- :fountain_pen: [detailed references](http://samuelalbanie.com/digests/2023-03-gpt-4)
 
 <strong>Notes about content</strong>:
 As noted in the first lecture above, the topic, definition or indeed the name "Foundation Models" is not yet agreed upon in the research community (and may change).
